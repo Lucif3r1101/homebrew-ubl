@@ -6,7 +6,7 @@ class Ubl < Formula
   version "0.1.9"
 
   def install
-    bin.install "ubl-x86_64-apple-darwin" => "ubl"
+    bin.install "ubl"
   end
 
   test do

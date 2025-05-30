@@ -2,7 +2,7 @@ class Ubl < Formula
   desc "Universal Binary Locker CLI"
   homepage "https://github.com/Lucif3r1101/ubl"
   url "https://github.com/Lucif3r1101/ubl/releases/download/v0.1.2/ubl-x86_64-apple-darwin.tar.gz"
-  sha256 "94c0af44b7901f39735e1fa95757ca9068e2fb149468510b5f6b1e4940083b65"
+  sha256 "5c4eef250a75829886593a0741294866bb922e922529d2a7601cbc7d176f8dc9"
   version "0.1.2"
 
   def install
